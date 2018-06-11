@@ -1,0 +1,22 @@
+body{
+    background: #243c40;
+    color:seashell;
+}
+
+.canvas{
+  position: absolute;
+  left: 8px;
+  top: 8px;
+}
+
+.canvas2{
+  position: absolute;
+  left: 616px;
+  top: 8px;
+}
+
+.canvas3{
+  position: absolute;
+  left: 1224px;
+  top: 8px;
+}
